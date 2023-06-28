@@ -1,6 +1,6 @@
 # About Me:
 
-Hello, I'm Huy and this is my Github. I am a programmer, and my preferred language is Python. Besides that, I also know how to use C and C++. Currently, I am studying Information Technology at the Ho Chi Minh City University of Posts and Telecommunications, and I am also self-studying data. My goal is to become a Data Engineer at major corporations such as Viettel, FPT Telecom...
+Hello, I'm Huy and this is my Github. I am a programmer, and my preferred language is Python. Besides that, I also know how to use C and C++. Currently, I am studying Information Technology at the Ho Chi Minh City University of Posts and Telecommunications.
 
 ## Tech Stack:
 
