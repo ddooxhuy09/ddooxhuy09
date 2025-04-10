@@ -1,3 +1,1 @@
-# About Me:
-
-Hello, I'm Huy and this is my Github.
+#### Hello, I'm Huy and this is my Github.
