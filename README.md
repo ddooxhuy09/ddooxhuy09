@@ -1,6 +1,6 @@
 # About Me:
 
-Hello, I'm Huy and this is my Github. I am a programmer, and my preferred language is Python. Besides that, I also know how to use C and C++. Currently, I am studying Information Technology at Posts and Telecommunications Institute of Technology.
+Hello, I'm Huy and this is my Github.
 
 ## Tech Stack:
 
